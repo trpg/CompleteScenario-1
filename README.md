@@ -1,4 +1,3 @@
-CompleteScenario-1
-==================
+# TRPG シナリオ大全 Volume I
 
-TRPG シナリオ大全 Volume I
+本書は、『TRPG シナリオ大全 Volume I』として、2012年12月のコミックマーケット83 で頒布される同人誌のオフィシャルリポジトリです。
